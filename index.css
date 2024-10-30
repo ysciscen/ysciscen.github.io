@@ -27,6 +27,8 @@ header::after {
     float: right;
 }
 
+/* help with nav-bar: https://www.youtube.com/watch?v=FEmysQARWFU */
+
 .nav-bar {
     font-family: 'Afacad Flux', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 400;
@@ -72,6 +74,10 @@ nav a:hover::after {
     width: 100%;
 }
 
+/* help with nav-bar: https://www.youtube.com/watch?v=FEmysQARWFU */
+
+/* help with text on top of image: https://www.w3schools.com/howto/howto_css_image_text.asp */
+
 .container {
     position: relative;
     text-align: center;
@@ -107,6 +113,8 @@ nav a:hover::after {
     text-shadow: 2px 2px 2px black;
     opacity: 75%;
 }
+
+/* help with text on top of image: https://www.w3schools.com/howto/howto_css_image_text.asp */
 
 footer{
     display: block;
